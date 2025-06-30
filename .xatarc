@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://Azaan-s-workspace-oaks9p.ap-southeast-2.xata.sh/db/shaizaan_recordnext",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}
